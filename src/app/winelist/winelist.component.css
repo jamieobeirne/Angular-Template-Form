@@ -1,0 +1,14 @@
+
+
+
+.wineitem-global-container, .form-global-conatiner {
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+
+  .form-global-conatiner {
+    margin-top: 15px;
+  }
